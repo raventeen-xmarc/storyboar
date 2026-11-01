@@ -1,0 +1,6 @@
+{
+  "name": "OmniMotion AI - Agent Video Generator",
+  "description": "Studio agen AI video generator cerdas untuk mengarahkan sinematografi, storyboard multi-adegan, prompt enhancing, dan pembuatan video otomatis dengan Gemini Omni Video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
